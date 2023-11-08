@@ -27,6 +27,7 @@ class EditTextField extends StatelessWidget {
       ),
       child: TextFormField(
         textAlignVertical: TextAlignVertical.center,
+
         decoration: InputDecoration(
           hintText: hintText,
           border: InputBorder.none,
